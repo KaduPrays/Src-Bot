@@ -1,0 +1,17 @@
+[
+    {
+        "key": "nickname",
+        "titulo": "▫️ Qual e o seu nickname?",
+        "descrição": ""
+    },
+    {
+        "key": "suggestion",
+        "titulo": "▫️ Qual e a sua sugestão?",
+        "descrição": ""
+    },
+    {
+        "key": "because",
+        "titulo": "▫️ Por que deveria ser aceita?",
+        "descrição": ""
+    }
+]

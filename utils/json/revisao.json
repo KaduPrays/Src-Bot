@@ -1,0 +1,22 @@
+[
+    {
+        "key": "nickname",
+        "titulo": "▫️ Qual e o seu nick?"
+    },
+    {
+        "key": "staff",
+        "titulo": "▫️ Digite o nickname do Staff que lhe puniu:"
+    },
+    {
+        "key": "date",
+        "titulo": "▫️ Digite a data da sua punição:"
+    },
+    {
+        "key": "reason",
+        "titulo": "▫️ Digite o motivo pela qual foi punido:"
+    },
+    {
+        "key": "punish",
+        "titulo": "▫️ Por que devemos rever a sua punição?"
+    }
+]

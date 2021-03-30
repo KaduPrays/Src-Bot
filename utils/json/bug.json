@@ -1,0 +1,22 @@
+[
+    {
+        "key": "nickname",
+        "titulo": "▫️ Qual e o seu nick?"
+    },
+    {
+        "key": "bug",
+        "titulo": "▫️ Explique o bug detalhadamente, não poupe palavras!"
+    },
+    {
+        "key": "map",
+        "titulo": "▫️ Em qual mapa esse bug aconteceu?"
+    },
+    {
+        "key": "server",
+        "titulo": "▫️ Em qual servidor esse bug aconteceu?"
+    },
+    {
+        "key": "date",
+        "titulo": "▫️ Em qual data esse bug aconteceu?"
+    }
+]

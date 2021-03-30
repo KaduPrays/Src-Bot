@@ -1,0 +1,31 @@
+{
+    "name": "AntryHost",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "AntryHost",
+    "license": "ISC",
+    "dependencies": {
+        "ascii-table": "0.0.9",
+        "axios": "^0.21.1",
+        "canvas": "^2.6.1",
+        "colors": "^1.4.0",
+        "dateformat": "^4.4.1",
+        "discord.js": "^12.2.0",
+        "fs": "0.0.1-security",
+        "index.js": "0.0.3",
+        "jimp": "^0.16.1",
+        "moment": "^2.26.0",
+        "moment-duration-format": "^2.3.2",
+        "moment-timezone": "^0.5.31",
+        "mongoose": "^5.11.13",
+        "ms": "^2.1.3",
+        "nekos.life": "^2.0.7",
+        "parse-ms": "^2.1.0",
+        "snekfetch": "^4.0.4"
+    }
+}
